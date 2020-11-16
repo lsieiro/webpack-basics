@@ -1,0 +1,8 @@
+node_modules
+/.idea/codeStyles/codeStyleConfig.xml
+/src/component.js
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/webpack-basics.iml
+/.idea/workspace.xml
